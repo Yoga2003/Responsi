@@ -1,0 +1,6 @@
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\bin\Debug\ResponsiPemrograman4353.exe.config
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\bin\Debug\ResponsiPemrograman4353.exe
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\bin\Debug\ResponsiPemrograman4353.pdb
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\obj\Debug\ResponsiPemrograman4353.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\obj\Debug\ResponsiPemrograman4353.exe
+D:\AMIKOM\Semester 2\Pemrograman\responsi\ResponsiPemrograman4353\ResponsiPemrograman4353\obj\Debug\ResponsiPemrograman4353.pdb
